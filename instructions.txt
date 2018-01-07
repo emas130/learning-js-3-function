@@ -1,0 +1,13 @@
+Zadanie: Tworzymy funkcje
+
+Stwórz funkcjê, która przyjmuje dwa parametry i nazwij j¹ getTriangleArea - function getTriangleArea(a, h) {}.
+
+Za pomoc¹ instrukcji warunkowej sprawdŸ, czy przekazane parametry a oraz h maj¹ wartoœæ wiêksz¹ od zera. Jeœli któryœ z parametrów nie spe³ni tego warunku (bêdzie mniejszy b¹dŸ równy zero), zwróæ wartoœæ 'Nieprawid³owe dane'.
+
+Jeœli oba parametry s¹ dodatnie, to poni¿ej instrukcji warunkowej dodaj polecenie return, aby funkcja zwraca³a wynik dzia³ania a*h/2.
+
+Poni¿ej deklaracji funkcji wywo³aj nastêpuj¹ce polecanie: console.log( getTriangleArea(10,6) ). Jeœli wszystko zrobi³eœ prawid³owo, w konsoli powinien pojawiæ siê wynik dzia³ania.
+
+Zrób trzy zmienne, które bêd¹ posiada³y pole trójk¹ta, za ka¿dym razem przekazuj¹c ró¿ne liczby w parametrze. PodpowiedŸ: var triangle1Area = getTriangleArea(10, 15);
+
+Stwórz nowe repozytorium i wyœlij tam swoje zadanie, a link do niego wklej poni¿ej. Pamiêtaj o udostêpnieniu repozytorium swojemu mentorowi.
